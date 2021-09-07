@@ -1,0 +1,1866 @@
+[
+  {
+    "movieId": 61221,
+    "imdbId": "tt0056796",
+    "title": "13 Frightened Girls",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 53, \"name\": \"Thriller\"}]",
+    "releaseDate": "1963-09-11",
+    "budget": 0
+  },
+  {
+    "movieId": 182099,
+    "imdbId": "tt0222664",
+    "title": "21-87",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-04-24",
+    "budget": 0
+  },
+  {
+    "movieId": 17691,
+    "imdbId": "tt0057071",
+    "title": "4 for Texas",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 37, \"name\": \"Western\"}]",
+    "releaseDate": "1963-12-25",
+    "budget": 0
+  },
+  {
+    "movieId": 27759,
+    "imdbId": "tt0056800",
+    "title": "55 Days at Peking",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 36, \"name\": \"History\"}]",
+    "releaseDate": "1963-05-06",
+    "budget": 17000000
+  },
+  {
+    "movieId": 422,
+    "imdbId": "tt0056801",
+    "title": "8½",
+    "genres": "[{\"id\": 14, \"name\": \"Fantasy\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-02-14",
+    "budget": 0
+  },
+  {
+    "movieId": 88912,
+    "imdbId": "tt0056930",
+    "title": "A Child Is Waiting",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-02-13",
+    "budget": 0
+  },
+  {
+    "movieId": 124058,
+    "imdbId": "tt0057090",
+    "title": "A Gathering of Eagles",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-06-21",
+    "budget": 0
+  },
+  {
+    "movieId": 42798,
+    "imdbId": "tt0057360",
+    "title": "A New Kind of Love",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-10-10",
+    "budget": 0
+  },
+  {
+    "movieId": 107231,
+    "imdbId": "tt0057583",
+    "title": "A Ticklish Affair",
+    "genres": "[{\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-08-18",
+    "budget": 0
+  },
+  {
+    "movieId": 256921,
+    "imdbId": "tt0056804",
+    "title": "A tiro limpio",
+    "genres": "[{\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-09-02",
+    "budget": 0
+  },
+  {
+    "movieId": 185291,
+    "imdbId": "tt0056810",
+    "title": "Act One",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-12-26",
+    "budget": 0
+  },
+  {
+    "movieId": 122698,
+    "imdbId": "tt0056818",
+    "title": "All the Way Home",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-10-17",
+    "budget": 0
+  },
+  {
+    "movieId": 47249,
+    "imdbId": "tt0056825",
+    "title": "America America",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 36, \"name\": \"History\"}]",
+    "releaseDate": "1963-12-15",
+    "budget": 0
+  },
+  {
+    "movieId": 27197,
+    "imdbId": "tt0057710",
+    "title": "An Actor's Revenge",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-01-13",
+    "budget": 0
+  },
+  {
+    "movieId": 22650,
+    "imdbId": "tt0057344",
+    "title": "Any Number Can Win",
+    "genres": "[{\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 80, \"name\": \"Crime\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-03-19",
+    "budget": 0
+  },
+  {
+    "movieId": 35072,
+    "imdbId": "tt0057215",
+    "title": "Atragon",
+    "genres": "[{\"id\": 10769, \"name\": \"Foreign\"}, {\"id\": 878, \"name\": \"Science Fiction\"}]",
+    "releaseDate": "1963-12-22",
+    "budget": 0
+  },
+  {
+    "movieId": 836,
+    "imdbId": "tt0057654",
+    "title": "Barren Lives",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10769, \"name\": \"Foreign\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-08-22",
+    "budget": 0
+  },
+  {
+    "movieId": 60773,
+    "imdbId": "tt0056846",
+    "title": "Bay of Angels",
+    "genres": "[{\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-03-01",
+    "budget": 0
+  },
+  {
+    "movieId": 26484,
+    "imdbId": "tt0056860",
+    "title": "Beach Party",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10402, \"name\": \"Music\"}]",
+    "releaseDate": "1963-08-07",
+    "budget": 0
+  },
+  {
+    "movieId": 26535,
+    "imdbId": "tt0056868",
+    "title": "Billy Liar",
+    "genres": "[{\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-06-05",
+    "budget": 0
+  },
+  {
+    "movieId": 28043,
+    "imdbId": "tt0057603",
+    "title": "Black Sabbath",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-08-22",
+    "budget": 0
+  },
+  {
+    "movieId": 28172,
+    "imdbId": "tt0056875",
+    "title": "Blood Feast",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-06-06",
+    "budget": 24500
+  },
+  {
+    "movieId": 4195,
+    "imdbId": "tt0056165",
+    "title": "Bluebeard",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-01-25",
+    "budget": 0
+  },
+  {
+    "movieId": 25167,
+    "imdbId": "tt0056891",
+    "title": "Bye Bye Birdie",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10402, \"name\": \"Music\"}]",
+    "releaseDate": "1963-04-04",
+    "budget": 0
+  },
+  {
+    "movieId": 108003,
+    "imdbId": "tt0056897",
+    "title": "Call Me Bwana",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-06-14",
+    "budget": 0
+  },
+  {
+    "movieId": 202662,
+    "imdbId": "tt0057381",
+    "title": "Cantata",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-02-28",
+    "budget": 0
+  },
+  {
+    "movieId": 33728,
+    "imdbId": "tt0056903",
+    "title": "Captain Newman, M.D.",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-12-25",
+    "budget": 0
+  },
+  {
+    "movieId": 41725,
+    "imdbId": "tt0056904",
+    "title": "Captain Sindbad",
+    "genres": "[{\"id\": 10751, \"name\": \"Family\"}, {\"id\": 14, \"name\": \"Fantasy\"}, {\"id\": 28, \"name\": \"Action\"}, {\"id\": 12, \"name\": \"Adventure\"}]",
+    "releaseDate": "1963-04-12",
+    "budget": 0
+  },
+  {
+    "movieId": 19254,
+    "imdbId": "tt0056912",
+    "title": "Carry On Cabby",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-06-01",
+    "budget": 0
+  },
+  {
+    "movieId": 32105,
+    "imdbId": "tt0057919",
+    "title": "Carry On Jack",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-11-01",
+    "budget": 0
+  },
+  {
+    "movieId": 229134,
+    "imdbId": "tt0055833",
+    "title": "Catherine of Russia",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 36, \"name\": \"History\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-01-12",
+    "budget": 0
+  },
+  {
+    "movieId": 115162,
+    "imdbId": "tt0056921",
+    "title": "Chair de poule",
+    "genres": "[{\"id\": 80, \"name\": \"Crime\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-11-13",
+    "budget": 0
+  },
+  {
+    "movieId": 4808,
+    "imdbId": "tt0056923",
+    "title": "Charade",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 9648, \"name\": \"Mystery\"}, {\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 53, \"name\": \"Thriller\"}]",
+    "releaseDate": "1963-12-05",
+    "budget": 4000000
+  },
+  {
+    "movieId": 135536,
+    "imdbId": "tt0057942",
+    "title": "Chi lavora è perduto",
+    "genres": "[]",
+    "releaseDate": "1963-12-05",
+    "budget": 0
+  },
+  {
+    "movieId": 8095,
+    "imdbId": "tt0056937",
+    "title": "Cleopatra",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 36, \"name\": \"History\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-06-12",
+    "budget": 31115000
+  },
+  {
+    "movieId": 198558,
+    "imdbId": "tt0056207",
+    "title": "Colossus and the Headhunters",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-01-10",
+    "budget": 0
+  },
+  {
+    "movieId": 33729,
+    "imdbId": "tt0056940",
+    "title": "Come Blow Your Horn",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-06-05",
+    "budget": 0
+  },
+  {
+    "movieId": 266,
+    "imdbId": "tt0057345",
+    "title": "Contempt",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-10-21",
+    "budget": 900000
+  },
+  {
+    "movieId": 162494,
+    "imdbId": "tt0263238",
+    "title": "Crisis: Behind a Presidential Commitment",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-10-21",
+    "budget": 0
+  },
+  {
+    "movieId": 59838,
+    "imdbId": "tt0056964",
+    "title": "Critic's Choice",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-04-13",
+    "budget": 0
+  },
+  {
+    "movieId": 25253,
+    "imdbId": "tt0057591",
+    "title": "Crooks in Clover",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-11-27",
+    "budget": 0
+  },
+  {
+    "movieId": 263112,
+    "imdbId": "tt0057514",
+    "title": "Current",
+    "genres": "[]",
+    "releaseDate": "1963-12-30",
+    "budget": 0
+  },
+  {
+    "movieId": 75608,
+    "imdbId": "tt0059091",
+    "title": "Dead Birds",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-10-01",
+    "budget": 0
+  },
+  {
+    "movieId": 28503,
+    "imdbId": "tt0056983",
+    "title": "Dementia 13",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}, {\"id\": 53, \"name\": \"Thriller\"}]",
+    "releaseDate": "1963-09-25",
+    "budget": 30000
+  },
+  {
+    "movieId": 88535,
+    "imdbId": "tt0056989",
+    "title": "Detective Bureau 2-3: Go to Hell, Bastards!",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 10769, \"name\": \"Foreign\"}]",
+    "releaseDate": "1963-01-27",
+    "budget": 0
+  },
+  {
+    "movieId": 29060,
+    "imdbId": "tt0056993",
+    "title": "Diary of a Madman",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-03-06",
+    "budget": 0
+  },
+  {
+    "movieId": 269165,
+    "imdbId": "tt0057723",
+    "title": "Die zwölf Geschworenen",
+    "genres": "[{\"id\": 10770, \"name\": \"TV Movie\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-10-25",
+    "budget": 0
+  },
+  {
+    "movieId": 6166,
+    "imdbId": "tt0121210",
+    "title": "Dinner for One",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-06-08",
+    "budget": 0
+  },
+  {
+    "movieId": 68337,
+    "imdbId": "tt0057004",
+    "title": "Doctor in Distress",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-07-30",
+    "budget": 0
+  },
+  {
+    "movieId": 127148,
+    "imdbId": "tt0284060",
+    "title": "Dog Star Man: Part II",
+    "genres": "[]",
+    "releaseDate": "1963-01-09",
+    "budget": 0
+  },
+  {
+    "movieId": 15875,
+    "imdbId": "tt0057007",
+    "title": "Donovan's Reef",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-06-12",
+    "budget": 2686000
+  },
+  {
+    "movieId": 37037,
+    "imdbId": "tt1606207",
+    "title": "Dr. Syn, Alias the Scarecrow",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 10751, \"name\": \"Family\"}]",
+    "releaseDate": "1963-12-06",
+    "budget": 0
+  },
+  {
+    "movieId": 58897,
+    "imdbId": "tt0062322",
+    "title": "Dry Summer",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-12-16",
+    "budget": 0
+  },
+  {
+    "movieId": 151730,
+    "imdbId": "tt0208926",
+    "title": "Eat",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-12-31",
+    "budget": 0
+  },
+  {
+    "movieId": 47122,
+    "imdbId": "tt0054880",
+    "title": "Flaming Creatures",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-04-29",
+    "budget": 300
+  },
+  {
+    "movieId": 19893,
+    "imdbId": "tt0057063",
+    "title": "Flipper",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10751, \"name\": \"Family\"}]",
+    "releaseDate": "1963-08-14",
+    "budget": 0
+  },
+  {
+    "movieId": 242835,
+    "imdbId": "tt0057067",
+    "title": "For Love or Money",
+    "genres": "[]",
+    "releaseDate": "1963-08-07",
+    "budget": 0
+  },
+  {
+    "movieId": 657,
+    "imdbId": "tt0057076",
+    "title": "From Russia with Love",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 53, \"name\": \"Thriller\"}, {\"id\": 12, \"name\": \"Adventure\"}]",
+    "releaseDate": "1963-10-11",
+    "budget": 2000000
+  },
+  {
+    "movieId": 18692,
+    "imdbId": "tt0057083",
+    "title": "Fun in Acapulco",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 101190,
+    "imdbId": "tt0057089",
+    "title": "Gangsters and Philantropists",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-02-15",
+    "budget": 0
+  },
+  {
+    "movieId": 146905,
+    "imdbId": "tt0056876",
+    "title": "Golden Mouth",
+    "genres": "[]",
+    "releaseDate": "1963-05-03",
+    "budget": 0
+  },
+  {
+    "movieId": 150912,
+    "imdbId": "tt0057271",
+    "title": "Goliath and the Sins of Babylon",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}]",
+    "releaseDate": "1963-12-03",
+    "budget": 0
+  },
+  {
+    "movieId": 58383,
+    "imdbId": "tt0057286",
+    "title": "Hands Over the City",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-10-09",
+    "budget": 0
+  },
+  {
+    "movieId": 42800,
+    "imdbId": "tt0057134",
+    "title": "Heavens Above!",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-05-20",
+    "budget": 0
+  },
+  {
+    "movieId": 92673,
+    "imdbId": "tt0183449",
+    "title": "Hercules Against the Mongols",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 28, \"name\": \"Action\"}]",
+    "releaseDate": "1963-11-29",
+    "budget": 0
+  },
+  {
+    "movieId": 12493,
+    "imdbId": "tt0057565",
+    "title": "High and Low",
+    "genres": "[{\"id\": 9648, \"name\": \"Mystery\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 53, \"name\": \"Thriller\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-03-01",
+    "budget": 0
+  },
+  {
+    "movieId": 130638,
+    "imdbId": "tt0179850",
+    "title": "Hitler - Never Heard of Him",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-07-25",
+    "budget": 0
+  },
+  {
+    "movieId": 294409,
+    "imdbId": "tt0407874",
+    "title": "Hollywood Without Make-Up",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-07-01",
+    "budget": 0
+  },
+  {
+    "movieId": 24748,
+    "imdbId": "tt0057163",
+    "title": "Hud",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 37, \"name\": \"Western\"}]",
+    "releaseDate": "1963-05-29",
+    "budget": 2500000
+  },
+  {
+    "movieId": 86168,
+    "imdbId": "tt0057168",
+    "title": "I Could Go on Singing",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10402, \"name\": \"Music\"}]",
+    "releaseDate": "1963-03-07",
+    "budget": 0
+  },
+  {
+    "movieId": 62243,
+    "imdbId": "tt0136225",
+    "title": "I giorni contati",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 19757,
+    "imdbId": "tt0122111",
+    "title": "Icarus XB 1",
+    "genres": "[{\"id\": 878, \"name\": \"Science Fiction\"}]",
+    "releaseDate": "1963-07-26",
+    "budget": 0
+  },
+  {
+    "movieId": 193732,
+    "imdbId": "tt0057540",
+    "title": "Il successo",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-05-30",
+    "budget": 0
+  },
+  {
+    "movieId": 187737,
+    "imdbId": "tt0207784",
+    "title": "Il terrorista",
+    "genres": "[]",
+    "releaseDate": "1963-10-25",
+    "budget": 0
+  },
+  {
+    "movieId": 119965,
+    "imdbId": "tt0206569",
+    "title": "In the Midst of Life",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-10-08",
+    "budget": 0
+  },
+  {
+    "movieId": 50950,
+    "imdbId": "tt0407888",
+    "title": "Ingmar Bergman Makes a Movie",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 2690,
+    "imdbId": "tt0057187",
+    "title": "Irma la Douce",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-06-04",
+    "budget": 0
+  },
+  {
+    "movieId": 110568,
+    "imdbId": "tt0057189",
+    "title": "Island of Love",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-06-12",
+    "budget": 0
+  },
+  {
+    "movieId": 8745,
+    "imdbId": "tt0057191",
+    "title": "It Happened at the World's Fair",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10402, \"name\": \"Music\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-04-03",
+    "budget": 0
+  },
+  {
+    "movieId": 11576,
+    "imdbId": "tt0057193",
+    "title": "It's a Mad, Mad, Mad, Mad World",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-11-07",
+    "budget": 9400000
+  },
+  {
+    "movieId": 11533,
+    "imdbId": "tt0057197",
+    "title": "Jason and the Argonauts",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 10751, \"name\": \"Family\"}, {\"id\": 14, \"name\": \"Fantasy\"}]",
+    "releaseDate": "1963-06-19",
+    "budget": 1000000
+  },
+  {
+    "movieId": 72901,
+    "imdbId": "tt0057200",
+    "title": "Johnny Cool",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 53, \"name\": \"Thriller\"}]",
+    "releaseDate": "1963-10-01",
+    "budget": 0
+  },
+  {
+    "movieId": 56800,
+    "imdbId": "tt0057207",
+    "title": "Judex",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 80, \"name\": \"Crime\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-12-04",
+    "budget": 0
+  },
+  {
+    "movieId": 42809,
+    "imdbId": "tt0057219",
+    "title": "Kanto Wanderer",
+    "genres": "[{\"id\": 80, \"name\": \"Crime\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-11-23",
+    "budget": 0
+  },
+  {
+    "movieId": 20891,
+    "imdbId": "tt0145033",
+    "title": "Kingdom of Crooked Mirrors",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 10751, \"name\": \"Family\"}, {\"id\": 14, \"name\": \"Fantasy\"}]",
+    "releaseDate": "1963-05-05",
+    "budget": 0
+  },
+  {
+    "movieId": 80027,
+    "imdbId": "tt0057225",
+    "title": "Kings of the Sun",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 37, \"name\": \"Western\"}]",
+    "releaseDate": "1963-12-18",
+    "budget": 0
+  },
+  {
+    "movieId": 153410,
+    "imdbId": "tt0213035",
+    "title": "Kiss",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-12-31",
+    "budget": 0
+  },
+  {
+    "movieId": 142982,
+    "imdbId": "tt0056955",
+    "title": "La corruzione",
+    "genres": "[]",
+    "releaseDate": "1963-11-22",
+    "budget": 0
+  },
+  {
+    "movieId": 49152,
+    "imdbId": "tt0057442",
+    "title": "La rabbia",
+    "genres": "[]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 85510,
+    "imdbId": "tt0057242",
+    "title": "Ladybug Ladybug",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-12-23",
+    "budget": 0
+  },
+  {
+    "movieId": 20778,
+    "imdbId": "tt0054821",
+    "title": "Le Doulos",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 28, \"name\": \"Action\"}, {\"id\": 53, \"name\": \"Thriller\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-01-18",
+    "budget": 0
+  },
+  {
+    "movieId": 128779,
+    "imdbId": "tt0057202",
+    "title": "Le Joli Mai",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-06-01",
+    "budget": 0
+  },
+  {
+    "movieId": 50785,
+    "imdbId": "tt0054177",
+    "title": "Le Petit Soldat",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-01-25",
+    "budget": 180000
+  },
+  {
+    "movieId": 168295,
+    "imdbId": "tt0057494",
+    "title": "Legend of a Duel to the Death",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 28, \"name\": \"Action\"}]",
+    "releaseDate": "1963-08-10",
+    "budget": 0
+  },
+  {
+    "movieId": 52705,
+    "imdbId": "tt0056905",
+    "title": "Les Carabiniers",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-05-31",
+    "budget": 0
+  },
+  {
+    "movieId": 38805,
+    "imdbId": "tt0057251",
+    "title": "Lilies of the Field",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-06-04",
+    "budget": 0
+  },
+  {
+    "movieId": 9960,
+    "imdbId": "tt0057261",
+    "title": "Lord of the Flies",
+    "genres": "[{\"id\": 53, \"name\": \"Thriller\"}, {\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-08-13",
+    "budget": 250000
+  },
+  {
+    "movieId": 129009,
+    "imdbId": "tt0057262",
+    "title": "Love Is a Ball",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-04-24",
+    "budget": 0
+  },
+  {
+    "movieId": 39495,
+    "imdbId": "tt0057263",
+    "title": "Love with the Proper Stranger",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-12-25",
+    "budget": 0
+  },
+  {
+    "movieId": 111752,
+    "imdbId": "tt0058323",
+    "title": "Man in the Middle",
+    "genres": "[{\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-10-01",
+    "budget": 0
+  },
+  {
+    "movieId": 37342,
+    "imdbId": "tt0056219",
+    "title": "Maniac",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 27, \"name\": \"Horror\"}, {\"id\": 53, \"name\": \"Thriller\"}]",
+    "releaseDate": "1963-10-30",
+    "budget": 0
+  },
+  {
+    "movieId": 146949,
+    "imdbId": "tt0239594",
+    "title": "Marine Battleground",
+    "genres": "[]",
+    "releaseDate": "1963-04-11",
+    "budget": 0
+  },
+  {
+    "movieId": 52302,
+    "imdbId": "tt0057295",
+    "title": "Matango: Attack of the Mushroom People",
+    "genres": "[{\"id\": 878, \"name\": \"Science Fiction\"}, {\"id\": 14, \"name\": \"Fantasy\"}, {\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-08-11",
+    "budget": 0
+  },
+  {
+    "movieId": 15263,
+    "imdbId": "tt0057298",
+    "title": "McLintock!",
+    "genres": "[{\"id\": 37, \"name\": \"Western\"}]",
+    "releaseDate": "1963-11-13",
+    "budget": 0
+  },
+  {
+    "movieId": 37464,
+    "imdbId": "tt0057859",
+    "title": "Monstrosity",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}, {\"id\": 878, \"name\": \"Science Fiction\"}]",
+    "releaseDate": "1963-09-01",
+    "budget": 0
+  },
+  {
+    "movieId": 97514,
+    "imdbId": "tt0057324",
+    "title": "Mothlight",
+    "genres": "[]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 30204,
+    "imdbId": "tt0057329",
+    "title": "Move Over, Darling",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-12-19",
+    "budget": 0
+  },
+  {
+    "movieId": 751,
+    "imdbId": "tt0057334",
+    "title": "Murder at the Gallop",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 53, \"name\": \"Thriller\"}, {\"id\": 80, \"name\": \"Crime\"}, {\"id\": 9648, \"name\": \"Mystery\"}, {\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 54563,
+    "imdbId": "tt0057336",
+    "title": "Muriel, or the Time of Return",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-10-08",
+    "budget": 0
+  },
+  {
+    "movieId": 70449,
+    "imdbId": "tt0056969",
+    "title": "My Wife's Husband",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-09-01",
+    "budget": 0
+  },
+  {
+    "movieId": 85834,
+    "imdbId": "tt0197719",
+    "title": "Méditerranée",
+    "genres": "[]",
+    "releaseDate": "1963-04-23",
+    "budget": 0
+  },
+  {
+    "movieId": 18510,
+    "imdbId": "tt0057503",
+    "title": "New Tale of Zatôichi",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-03-15",
+    "budget": 0
+  },
+  {
+    "movieId": 1849,
+    "imdbId": "tt0057362",
+    "title": "Nine Hours to Rama",
+    "genres": "[{\"id\": 36, \"name\": \"History\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-04-30",
+    "budget": 0
+  },
+  {
+    "movieId": 48707,
+    "imdbId": "tt0200310",
+    "title": "Ninja 2",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}]",
+    "releaseDate": "1963-08-06",
+    "budget": 0
+  },
+  {
+    "movieId": 201414,
+    "imdbId": "tt0187501",
+    "title": "Ninja 3: Goemon Will Never Die!",
+    "genres": "[]",
+    "releaseDate": "1963-12-28",
+    "budget": 0
+  },
+  {
+    "movieId": 27858,
+    "imdbId": "tt0057393",
+    "title": "PT 109",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-06-19",
+    "budget": 0
+  },
+  {
+    "movieId": 74088,
+    "imdbId": "tt0057400",
+    "title": "Papa's Delicate Condition",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-03-06",
+    "budget": 0
+  },
+  {
+    "movieId": 25939,
+    "imdbId": "tt0054159",
+    "title": "Passenger",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-09-20",
+    "budget": 0
+  },
+  {
+    "movieId": 296344,
+    "imdbId": "tt0122670",
+    "title": "Politexnitis and Erimospitis",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-09-30",
+    "budget": 0
+  },
+  {
+    "movieId": 36324,
+    "imdbId": "tt0057422",
+    "title": "Pouic-Pouic",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-11-20",
+    "budget": 0
+  },
+  {
+    "movieId": 59045,
+    "imdbId": "tt0056171",
+    "title": "Ro.Go.Pa.G.",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-02-19",
+    "budget": 0
+  },
+  {
+    "movieId": 110260,
+    "imdbId": "tt0057467",
+    "title": "Samson and the Slave Queen",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-12-13",
+    "budget": 0
+  },
+  {
+    "movieId": 268212,
+    "imdbId": "tt0057589",
+    "title": "Scarlet Eye",
+    "genres": "[{\"id\": 80, \"name\": \"Crime\"}, {\"id\": 12, \"name\": \"Adventure\"}]",
+    "releaseDate": "1963-05-30",
+    "budget": 0
+  },
+  {
+    "movieId": 25504,
+    "imdbId": "tt0057495",
+    "title": "Shock Corridor",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 9648, \"name\": \"Mystery\"}, {\"id\": 53, \"name\": \"Thriller\"}]",
+    "releaseDate": "1963-09-11",
+    "budget": 0
+  },
+  {
+    "movieId": 270251,
+    "imdbId": "tt0139610",
+    "title": "Showman",
+    "genres": "[]",
+    "releaseDate": "1963-01-02",
+    "budget": 0
+  },
+  {
+    "movieId": 256222,
+    "imdbId": "tt0187513",
+    "title": "Sleep",
+    "genres": "[]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 88061,
+    "imdbId": "tt0055459",
+    "title": "So Evil, So Young",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 53336,
+    "imdbId": "tt0057517",
+    "title": "Soldier In The Rain",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-11-27",
+    "budget": 0
+  },
+  {
+    "movieId": 19762,
+    "imdbId": "tt0057518",
+    "title": "Son of Flubber",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10751, \"name\": \"Family\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-01-16",
+    "budget": 0
+  },
+  {
+    "movieId": 88012,
+    "imdbId": "tt0057521",
+    "title": "Sparrows Can't Sing",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-03-26",
+    "budget": 0
+  },
+  {
+    "movieId": 44916,
+    "imdbId": "tt0057523",
+    "title": "Spencer's Mountain",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-05-16",
+    "budget": 0
+  },
+  {
+    "movieId": 269070,
+    "imdbId": "tt0058719",
+    "title": "Stop Train 349",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-06-26",
+    "budget": 0
+  },
+  {
+    "movieId": 90930,
+    "imdbId": "tt0057536",
+    "title": "Strip-Tease",
+    "genres": "[]",
+    "releaseDate": "1963-05-29",
+    "budget": 0
+  },
+  {
+    "movieId": 43532,
+    "imdbId": "tt0057541",
+    "title": "Summer Holiday",
+    "genres": "[{\"id\": 10402, \"name\": \"Music\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-02-18",
+    "budget": 0
+  },
+  {
+    "movieId": 37204,
+    "imdbId": "tt0057542",
+    "title": "Summer Magic",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10751, \"name\": \"Family\"}]",
+    "releaseDate": "1963-07-07",
+    "budget": 0
+  },
+  {
+    "movieId": 61892,
+    "imdbId": "tt0057543",
+    "title": "Sunday in New York",
+    "genres": "[{\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-11-13",
+    "budget": 0
+  },
+  {
+    "movieId": 86764,
+    "imdbId": "tt0056910",
+    "title": "Suzanne's Career",
+    "genres": "[{\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-02-01",
+    "budget": 0
+  },
+  {
+    "movieId": 45241,
+    "imdbId": "tt0057556",
+    "title": "Take Her, She's Mine",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 68720,
+    "imdbId": "tt0057558",
+    "title": "Tammy and the Doctor",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-05-29",
+    "budget": 0
+  },
+  {
+    "movieId": 49578,
+    "imdbId": "tt0057717",
+    "title": "The Alive and the Dead",
+    "genres": "[{\"id\": 10752, \"name\": \"War\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-06-06",
+    "budget": 0
+  },
+  {
+    "movieId": 81399,
+    "imdbId": "tt0056884",
+    "title": "The Bakery Girl of Monceau",
+    "genres": "[{\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 60567,
+    "imdbId": "tt0057277",
+    "title": "The Big City",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-09-27",
+    "budget": 0
+  },
+  {
+    "movieId": 571,
+    "imdbId": "tt0056869",
+    "title": "The Birds",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-03-28",
+    "budget": 2500000
+  },
+  {
+    "movieId": 28536,
+    "imdbId": "tt0057155",
+    "title": "The Blancheville Monster",
+    "genres": "[]",
+    "releaseDate": "1963-06-06",
+    "budget": 0
+  },
+  {
+    "movieId": 81831,
+    "imdbId": "tt0056883",
+    "title": "The Boom",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-09-24",
+    "budget": 0
+  },
+  {
+    "movieId": 3010,
+    "imdbId": "tt0056907",
+    "title": "The Cardinal",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 36, \"name\": \"History\"}, {\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-12-12",
+    "budget": 0
+  },
+  {
+    "movieId": 85640,
+    "imdbId": "tt0056908",
+    "title": "The Caretakers",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-08-21",
+    "budget": 0
+  },
+  {
+    "movieId": 134608,
+    "imdbId": "tt0056646",
+    "title": "The Castilian",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-04-13",
+    "budget": 0
+  },
+  {
+    "movieId": 170315,
+    "imdbId": "tt0056918",
+    "title": "The Ceremony",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-12-18",
+    "budget": 0
+  },
+  {
+    "movieId": 29486,
+    "imdbId": "tt0056943",
+    "title": "The Comedy of Terrors",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-10-14",
+    "budget": 0
+  },
+  {
+    "movieId": 67378,
+    "imdbId": "tt0057532",
+    "title": "The Conjugal Bed",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 187633,
+    "imdbId": "tt0056950",
+    "title": "The Conquest of Mycenae",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 12, \"name\": \"Adventure\"}]",
+    "releaseDate": "1963-04-22",
+    "budget": 0
+  },
+  {
+    "movieId": 85521,
+    "imdbId": "tt0056952",
+    "title": "The Cool World",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 42986,
+    "imdbId": "tt0056956",
+    "title": "The Courtship of Eddie's Father",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 10751, \"name\": \"Family\"}]",
+    "releaseDate": "1963-03-27",
+    "budget": 0
+  },
+  {
+    "movieId": 51260,
+    "imdbId": "tt0056961",
+    "title": "The Crawling Hand",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}, {\"id\": 878, \"name\": \"Science Fiction\"}]",
+    "releaseDate": "1963-09-04",
+    "budget": 100000
+  },
+  {
+    "movieId": 71701,
+    "imdbId": "tt0056576",
+    "title": "The Damned",
+    "genres": "[{\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 14, \"name\": \"Fantasy\"}, {\"id\": 27, \"name\": \"Horror\"}, {\"id\": 878, \"name\": \"Science Fiction\"}]",
+    "releaseDate": "1963-05-19",
+    "budget": 0
+  },
+  {
+    "movieId": 118716,
+    "imdbId": "tt0055893",
+    "title": "The Day Mars Invaded Earth",
+    "genres": "[{\"id\": 878, \"name\": \"Science Fiction\"}]",
+    "releaseDate": "1963-02-14",
+    "budget": 0
+  },
+  {
+    "movieId": 85285,
+    "imdbId": "tt0058413",
+    "title": "The Empty Canvas",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-12-04",
+    "budget": 0
+  },
+  {
+    "movieId": 4498,
+    "imdbId": "tt0057643",
+    "title": "The Executioner",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-09-01",
+    "budget": 0
+  },
+  {
+    "movieId": 66180,
+    "imdbId": "tt0055981",
+    "title": "The Fiances",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 10769, \"name\": \"Foreign\"}]",
+    "releaseDate": "1963-05-16",
+    "budget": 0
+  },
+  {
+    "movieId": 2593,
+    "imdbId": "tt0057058",
+    "title": "The Fire Within",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-10-14",
+    "budget": 0
+  },
+  {
+    "movieId": 28533,
+    "imdbId": "tt0057522",
+    "title": "The Ghost",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}, {\"id\": 53, \"name\": \"Thriller\"}]",
+    "releaseDate": "1963-03-30",
+    "budget": 0
+  },
+  {
+    "movieId": 221527,
+    "imdbId": "tt0122207",
+    "title": "The Girl from Parma",
+    "genres": "[]",
+    "releaseDate": "1963-09-14",
+    "budget": 0
+  },
+  {
+    "movieId": 5925,
+    "imdbId": "tt0057115",
+    "title": "The Great Escape",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 36, \"name\": \"History\"}, {\"id\": 53, \"name\": \"Thriller\"}, {\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-06-20",
+    "budget": 4000000
+  },
+  {
+    "movieId": 170368,
+    "imdbId": "tt0057642",
+    "title": "The Green Years",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-11-29",
+    "budget": 0
+  },
+  {
+    "movieId": 30137,
+    "imdbId": "tt0057128",
+    "title": "The Haunted Palace",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-08-27",
+    "budget": 0
+  },
+  {
+    "movieId": 11772,
+    "imdbId": "tt0057129",
+    "title": "The Haunting",
+    "genres": "[{\"id\": 9648, \"name\": \"Mystery\"}, {\"id\": 27, \"name\": \"Horror\"}, {\"id\": 53, \"name\": \"Thriller\"}]",
+    "releaseDate": "1963-09-18",
+    "budget": 0
+  },
+  {
+    "movieId": 44065,
+    "imdbId": "tt0336693",
+    "title": "The House Is Black",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 77287,
+    "imdbId": "tt0057162",
+    "title": "The Householder",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-10-20",
+    "budget": 0
+  },
+  {
+    "movieId": 39241,
+    "imdbId": "tt0056819",
+    "title": "The Human Dutch",
+    "genres": "[{\"id\": 99, \"name\": \"Documentary\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 250000
+  },
+  {
+    "movieId": 37969,
+    "imdbId": "tt0057180",
+    "title": "The Incredible Journey",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 10751, \"name\": \"Family\"}]",
+    "releaseDate": "1963-11-20",
+    "budget": 0
+  },
+  {
+    "movieId": 42984,
+    "imdbId": "tt0057363",
+    "title": "The Insect Woman",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-11-16",
+    "budget": 0
+  },
+  {
+    "movieId": 338438,
+    "imdbId": "tt0056103",
+    "title": "The Invincible Masked Rider",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}]",
+    "releaseDate": "1963-03-29",
+    "budget": 0
+  },
+  {
+    "movieId": 39222,
+    "imdbId": "tt0057226",
+    "title": "The Kiss of the Vampire",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-09-11",
+    "budget": 0
+  },
+  {
+    "movieId": 1040,
+    "imdbId": "tt0057091",
+    "title": "The Leopard",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-03-28",
+    "budget": 0
+  },
+  {
+    "movieId": 11605,
+    "imdbId": "tt0057254",
+    "title": "The List of Adrian Messenger",
+    "genres": "[{\"id\": 80, \"name\": \"Crime\"}, {\"id\": 9648, \"name\": \"Mystery\"}]",
+    "releaseDate": "1963-05-29",
+    "budget": 0
+  },
+  {
+    "movieId": 107248,
+    "imdbId": "tt0057248",
+    "title": "The Love Eterne",
+    "genres": "[{\"id\": 10402, \"name\": \"Music\"}]",
+    "releaseDate": "1963-04-02",
+    "budget": 0
+  },
+  {
+    "movieId": 45005,
+    "imdbId": "tt0057323",
+    "title": "The Monsters",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-10-26",
+    "budget": 0
+  },
+  {
+    "movieId": 49876,
+    "imdbId": "tt0057328",
+    "title": "The Mouse on the Moon",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-05-07",
+    "budget": 0
+  },
+  {
+    "movieId": 18331,
+    "imdbId": "tt0057372",
+    "title": "The Nutty Professor",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10751, \"name\": \"Family\"}, {\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 878, \"name\": \"Science Fiction\"}]",
+    "releaseDate": "1963-06-04",
+    "budget": 0
+  },
+  {
+    "movieId": 29400,
+    "imdbId": "tt0057379",
+    "title": "The Old Dark House",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 27, \"name\": \"Horror\"}, {\"id\": 9648, \"name\": \"Mystery\"}]",
+    "releaseDate": "1963-10-30",
+    "budget": 0
+  },
+  {
+    "movieId": 51092,
+    "imdbId": "tt0056945",
+    "title": "The Organizer",
+    "genres": "[{\"id\": 80, \"name\": \"Crime\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-10-23",
+    "budget": 0
+  },
+  {
+    "movieId": 374883,
+    "imdbId": "tt0138810",
+    "title": "The Partisans",
+    "genres": "[{\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-02-21",
+    "budget": 0
+  },
+  {
+    "movieId": 936,
+    "imdbId": "tt0057413",
+    "title": "The Pink Panther",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-12-19",
+    "budget": 0
+  },
+  {
+    "movieId": 4025,
+    "imdbId": "tt0057426",
+    "title": "The Prize",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 9648, \"name\": \"Mystery\"}, {\"id\": 80, \"name\": \"Crime\"}]",
+    "releaseDate": "1963-12-25",
+    "budget": 0
+  },
+  {
+    "movieId": 29056,
+    "imdbId": "tt0057449",
+    "title": "The Raven",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 14, \"name\": \"Fantasy\"}, {\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-01-25",
+    "budget": 350000
+  },
+  {
+    "movieId": 47790,
+    "imdbId": "tt0057229",
+    "title": "The Red Lanterns",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-12-02",
+    "budget": 0
+  },
+  {
+    "movieId": 29103,
+    "imdbId": "tt0057465",
+    "title": "The Sadist",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-04-01",
+    "budget": 0
+  },
+  {
+    "movieId": 283281,
+    "imdbId": "tt0057068",
+    "title": "The Scapegoat",
+    "genres": "[{\"id\": 36, \"name\": \"History\"}, {\"id\": 12, \"name\": \"Adventure\"}]",
+    "releaseDate": "1963-08-23",
+    "budget": 0
+  },
+  {
+    "movieId": 42987,
+    "imdbId": "tt0057490",
+    "title": "The Servant",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-11-01",
+    "budget": 0
+  },
+  {
+    "movieId": 113332,
+    "imdbId": "tt0056018",
+    "title": "The Shortest Day",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 36, \"name\": \"History\"}, {\"id\": 10769, \"name\": \"Foreign\"}, {\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-02-14",
+    "budget": 0
+  },
+  {
+    "movieId": 11506,
+    "imdbId": "tt0057611",
+    "title": "The Silence",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-09-23",
+    "budget": 0
+  },
+  {
+    "movieId": 31118,
+    "imdbId": "tt0057507",
+    "title": "The Skydivers",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 63087,
+    "imdbId": "tt0056499",
+    "title": "The Slime People",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}, {\"id\": 878, \"name\": \"Science Fiction\"}]",
+    "releaseDate": "1963-03-29",
+    "budget": 0
+  },
+  {
+    "movieId": 81654,
+    "imdbId": "tt0057535",
+    "title": "The Strange Type",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10769, \"name\": \"Foreign\"}]",
+    "releaseDate": "1963-02-28",
+    "budget": 0
+  },
+  {
+    "movieId": 9078,
+    "imdbId": "tt0057546",
+    "title": "The Sword in the Stone",
+    "genres": "[{\"id\": 16, \"name\": \"Animation\"}, {\"id\": 10751, \"name\": \"Family\"}]",
+    "releaseDate": "1963-12-25",
+    "budget": 3000000
+  },
+  {
+    "movieId": 62397,
+    "imdbId": "tt0057274",
+    "title": "The Teacher from Vigevano",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-12-24",
+    "budget": 0
+  },
+  {
+    "movieId": 31655,
+    "imdbId": "tt0057569",
+    "title": "The Terror",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}, {\"id\": 53, \"name\": \"Thriller\"}]",
+    "releaseDate": "1963-06-17",
+    "budget": 0
+  },
+  {
+    "movieId": 52011,
+    "imdbId": "tt0057212",
+    "title": "The Thirteen Assassins",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 28, \"name\": \"Action\"}]",
+    "releaseDate": "1963-12-07",
+    "budget": 6
+  },
+  {
+    "movieId": 15081,
+    "imdbId": "tt0057579",
+    "title": "The Three Lives of Thomasina",
+    "genres": "[{\"id\": 14, \"name\": \"Fantasy\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 53, \"name\": \"Thriller\"}, {\"id\": 878, \"name\": \"Science Fiction\"}, {\"id\": 9648, \"name\": \"Mystery\"}, {\"id\": 10751, \"name\": \"Family\"}]",
+    "releaseDate": "1963-12-11",
+    "budget": 0
+  },
+  {
+    "movieId": 22233,
+    "imdbId": "tt0057581",
+    "title": "The Thrill of It All",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-07-17",
+    "budget": 0
+  },
+  {
+    "movieId": 53650,
+    "imdbId": "tt0056632",
+    "title": "The Ugly American",
+    "genres": "[{\"id\": 53, \"name\": \"Thriller\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-04-02",
+    "budget": 0
+  },
+  {
+    "movieId": 37222,
+    "imdbId": "tt0057634",
+    "title": "The V.I.P.s",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-05-01",
+    "budget": 0
+  },
+  {
+    "movieId": 3012,
+    "imdbId": "tt0057652",
+    "title": "The Victors",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-11-22",
+    "budget": 0
+  },
+  {
+    "movieId": 74215,
+    "imdbId": "tt0057646",
+    "title": "The Virgin of Nuremberg",
+    "genres": "[{\"id\": 10752, \"name\": \"War\"}, {\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-08-15",
+    "budget": 0
+  },
+  {
+    "movieId": 42988,
+    "imdbId": "tt0057681",
+    "title": "The Wheeler Dealers",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 27636,
+    "imdbId": "tt0057078",
+    "title": "The Whip and the Body",
+    "genres": "[{\"id\": 9648, \"name\": \"Mystery\"}, {\"id\": 27, \"name\": \"Horror\"}]",
+    "releaseDate": "1963-08-29",
+    "budget": 66500
+  },
+  {
+    "movieId": 42989,
+    "imdbId": "tt0056704",
+    "title": "The Wrong Arm of the Law",
+    "genres": "[{\"id\": 80, \"name\": \"Crime\"}, {\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-03-17",
+    "budget": 0
+  },
+  {
+    "movieId": 18774,
+    "imdbId": "tt0057578",
+    "title": "This Sporting Life",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-01-15",
+    "budget": 0
+  },
+  {
+    "movieId": 73267,
+    "imdbId": "tt0131207",
+    "title": "Three Plus Two",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-07-03",
+    "budget": 0
+  },
+  {
+    "movieId": 379508,
+    "imdbId": "tt0178683",
+    "title": "Throbs at the Desk",
+    "genres": "[{\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-11-11",
+    "budget": 0
+  },
+  {
+    "movieId": 388237,
+    "imdbId": "tt0133233",
+    "title": "Tie Pimeään",
+    "genres": "[{\"id\": 53, \"name\": \"Thriller\"}, {\"id\": 80, \"name\": \"Crime\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-01-04",
+    "budget": 0
+  },
+  {
+    "movieId": 81365,
+    "imdbId": "tt0197042",
+    "title": "Tis kakomoiras",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-06-18",
+    "budget": 0
+  },
+  {
+    "movieId": 162382,
+    "imdbId": "tt0056995",
+    "title": "To Bed or Not to Bed",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-12-22",
+    "budget": 0
+  },
+  {
+    "movieId": 5769,
+    "imdbId": "tt0057590",
+    "title": "Tom Jones",
+    "genres": "[{\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 36, \"name\": \"History\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-10-06",
+    "budget": 1000000
+  },
+  {
+    "movieId": 396269,
+    "imdbId": "tt0055790",
+    "title": "Torpedo Bay",
+    "genres": "[{\"id\": 10752, \"name\": \"War\"}]",
+    "releaseDate": "1963-09-21",
+    "budget": 0
+  },
+  {
+    "movieId": 56920,
+    "imdbId": "tt0056604",
+    "title": "Totò Diabolicus",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 108869,
+    "imdbId": "tt0057598",
+    "title": "Toys in the Attic",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-07-31",
+    "budget": 0
+  },
+  {
+    "movieId": 47553,
+    "imdbId": "tt0057608",
+    "title": "Twice-Told Tales",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}, {\"id\": 9648, \"name\": \"Mystery\"}, {\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 878, \"name\": \"Science Fiction\"}]",
+    "releaseDate": "1963-09-01",
+    "budget": 0
+  },
+  {
+    "movieId": 138990,
+    "imdbId": "tt0057609",
+    "title": "Twilight of Honor",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-11-13",
+    "budget": 0
+  },
+  {
+    "movieId": 43750,
+    "imdbId": "tt0057622",
+    "title": "Under the Yum-Yum Tree",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-10-23",
+    "budget": 0
+  },
+  {
+    "movieId": 277296,
+    "imdbId": "tt0056658",
+    "title": "Vice and Virtue",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-03-01",
+    "budget": 0
+  },
+  {
+    "movieId": 27862,
+    "imdbId": "tt0057694",
+    "title": "Walking the Streets of Moscow",
+    "genres": "[{\"id\": 10749, \"name\": \"Romance\"}, {\"id\": 35, \"name\": \"Comedy\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 48717,
+    "imdbId": "tt0057680",
+    "title": "What's a Nice Girl Like You Doing in a Place Like This?",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-01-01",
+    "budget": 0
+  },
+  {
+    "movieId": 42305,
+    "imdbId": "tt0057683",
+    "title": "Who's Minding the Store?",
+    "genres": "[{\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-11-28",
+    "budget": 0
+  },
+  {
+    "movieId": 29455,
+    "imdbId": "tt0057358",
+    "title": "Winter Light",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-02-11",
+    "budget": 0
+  },
+  {
+    "movieId": 169788,
+    "imdbId": "tt0057688",
+    "title": "Wives and Lovers",
+    "genres": "[]",
+    "releaseDate": "1963-08-29",
+    "budget": 0
+  },
+  {
+    "movieId": 32569,
+    "imdbId": "tt0057693",
+    "title": "X: The Man with the X-Ray Eyes",
+    "genres": "[{\"id\": 27, \"name\": \"Horror\"}, {\"id\": 878, \"name\": \"Science Fiction\"}, {\"id\": 53, \"name\": \"Thriller\"}]",
+    "releaseDate": "1963-09-18",
+    "budget": 0
+  },
+  {
+    "movieId": 42801,
+    "imdbId": "tt0057171",
+    "title": "Yesterday, Today and Tomorrow",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 35, \"name\": \"Comedy\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-12-19",
+    "budget": 0
+  },
+  {
+    "movieId": 80988,
+    "imdbId": "tt0057307",
+    "title": "Young Aphrodites",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 10749, \"name\": \"Romance\"}]",
+    "releaseDate": "1963-06-06",
+    "budget": 0
+  },
+  {
+    "movieId": 37939,
+    "imdbId": "tt0057697",
+    "title": "Youth of the Beast",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 28, \"name\": \"Action\"}, {\"id\": 80, \"name\": \"Crime\"}, {\"id\": 9648, \"name\": \"Mystery\"}, {\"id\": 10769, \"name\": \"Foreign\"}]",
+    "releaseDate": "1963-04-21",
+    "budget": 0
+  },
+  {
+    "movieId": 18624,
+    "imdbId": "tt0057714",
+    "title": "Zatôichi on the Road",
+    "genres": "[{\"id\": 28, \"name\": \"Action\"}, {\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 18, \"name\": \"Drama\"}]",
+    "releaseDate": "1963-11-30",
+    "budget": 0
+  },
+  {
+    "movieId": 18511,
+    "imdbId": "tt0057715",
+    "title": "Zatôichi the Fugitive",
+    "genres": "[{\"id\": 18, \"name\": \"Drama\"}, {\"id\": 12, \"name\": \"Adventure\"}, {\"id\": 28, \"name\": \"Action\"}]",
+    "releaseDate": "1963-08-10",
+    "budget": 0
+  }
+]
